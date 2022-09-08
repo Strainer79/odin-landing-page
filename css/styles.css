@@ -22,6 +22,7 @@ body {
 
 .hero {
     display: flex;
+    align-items: flex-end;
     background-color: #f79605;
     padding: 100px 200px;
    
@@ -108,7 +109,7 @@ button {
 .quote {
     display: flex;
     flex-direction: column;
-    background-color: #e5e7eb;
+    background-color: #fadeb5;
     padding-left: 200px;
     padding-right: 200px;
     padding-top: 30px;
@@ -162,6 +163,7 @@ button {
 .linebreak {
     width: 100%;
 }
+
 
 
 
